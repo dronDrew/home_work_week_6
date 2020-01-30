@@ -140,10 +140,12 @@
   <ItemGroup>
     <ClCompile Include="Home_pet.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="string_inheritance.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dependies.h" />
     <ClInclude Include="Home_pet.h" />
+    <ClInclude Include="string_inheritance.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
