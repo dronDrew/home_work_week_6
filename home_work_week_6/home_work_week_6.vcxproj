@@ -140,12 +140,17 @@
   <ItemGroup>
     <ClCompile Include="Home_pet.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="passport.cpp" />
     <ClCompile Include="string_inheritance.cpp" />
+    <ClCompile Include="student.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dependies.h" />
     <ClInclude Include="Home_pet.h" />
+    <ClInclude Include="passport.h" />
     <ClInclude Include="string_inheritance.h" />
+    <ClInclude Include="student.h" />
+    <ClInclude Include="template class.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
