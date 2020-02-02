@@ -30,6 +30,12 @@
     <ClCompile Include="passport.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="doc_display.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Linear.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dependies.h">
@@ -50,5 +56,14 @@
     <ClInclude Include="template class.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="doc_display.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Linear.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="doc_test.txt" />
   </ItemGroup>
 </Project>

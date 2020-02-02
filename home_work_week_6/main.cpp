@@ -4,11 +4,13 @@
 #include"student.h"
 #include "passport.h"
 #include"template class.h"
+#include"doc_display.h"
+#include "Linear.h"
 
 using namespace std;
 
 int main() {
-	child<int, short, char, float>a(100);
-	child_2<int, short, char, float, double, long> b;
+	Squer_Equation a;
+	a.calculate_equation(5.0,9.0,8);
 	return 0;
 }
