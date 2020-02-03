@@ -6,11 +6,11 @@
 #include"template class.h"
 #include"doc_display.h"
 #include "Linear.h"
+#include "shape.h"
 
 using namespace std;
 
 int main() {
-	Squer_Equation a;
-	a.calculate_equation(5.0,9.0,8);
+	
 	return 0;
 }

@@ -143,6 +143,7 @@
     <ClCompile Include="Linear.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="passport.cpp" />
+    <ClCompile Include="shape.cpp" />
     <ClCompile Include="string_inheritance.cpp" />
     <ClCompile Include="student.cpp" />
   </ItemGroup>
@@ -152,6 +153,7 @@
     <ClInclude Include="Home_pet.h" />
     <ClInclude Include="Linear.h" />
     <ClInclude Include="passport.h" />
+    <ClInclude Include="shape.h" />
     <ClInclude Include="string_inheritance.h" />
     <ClInclude Include="student.h" />
     <ClInclude Include="template class.h" />
